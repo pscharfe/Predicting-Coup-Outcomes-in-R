@@ -12,10 +12,8 @@ library(randomForest)
 library(gbm)
 library(Hmisc)
 
-# Introduction: The goal of this script is to find the strongest predictors of coup violence, coded 
-# in the dataset as `realized_coup`, and then to build a predictive model of coup violence. In addition, violence 
-# predictors are of two types: 1) coup elements or type planned *before* the coup itself, and 2) coup features that
-# emerged *during* the coup. Both are included here.
+# Introduction: The goal of this script is to explore the basic trends in the data, especially regarding coup success and violence.
+# These outcomes are coded in the dataset as `realized_coup` and `were_others_than_the_incumbent_killed`.
 
 ## Build a dataframe: coup_df
 
