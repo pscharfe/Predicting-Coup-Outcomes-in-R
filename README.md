@@ -1,8 +1,8 @@
 # Can Big Data Predict Revolutions? An Investigation in R
 * Public dataset from the Cline Center at the University of Illinois, listing details of all known coups d'etat from the 1940s through 2004
 * Data is almost entirely "one-hot encoded" as binary values (1 or 0) describing categorical variables
+* New variables were constructed, e.g., decade, season
 * A second dataset consisting of country-by-country global economic history data was merged 
-* Begins by constructing new variables, e.g., decades, season
 * Exploratory data analysis with correlations and visualizations
 * Two R scripts were created using only the Cline Center coup dataset to predict the following outcomes:
    * The success or failure of attempted coups
