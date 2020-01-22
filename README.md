@@ -12,7 +12,7 @@
    * Violence and success/failure, as in the first two scripts, using both economic data and coup features 
 * Numerous machine learning algorithms were used to model these outcomes
    * Logistic regression
-   * Stepwise forward selection of features for logistic regression
+   * Stepwise forward selection of model features for logistic regression
    * Naive Bayes classification
    * Decision trees classification
    * Random Forest ensemble learning
