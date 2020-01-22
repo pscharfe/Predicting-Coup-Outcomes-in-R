@@ -8,13 +8,14 @@
    * The success or failure of attempted coups
    * The violence or lack thereof of attempted coups
 * One additional R script was created to predict these outcomes:
- - Coup occurence based on country-by-country economic indicators over time
- - Violence and success/failure, as in the first two scripts, using both economic data and coup features 
+   * Coup occurence based on country-by-country economic indicators over time
+   * Violence and success/failure, as in the first two scripts, using both economic data and coup features 
 * Numerous machine learning algorithms were used to model these outcomes
- - Logistic regression
- - Stepwise forward selection of features for logistic regression
- - Naive Bayes classification
- - Decision trees classification
- - Random Forest ensemble learning
+   * Logistic regression
+   * Stepwise forward selection of features for logistic regression
+   * Naive Bayes classification
+   * Decision trees classification
+   * Random Forest ensemble learning
+* Lastly, out-of-sample data on recent coups provides another, mostly successful, test of the models 
 * The correlation matrix for the success of coups is visualized as follows:
 <img src="Success_Corrs.jpeg" width="500">
