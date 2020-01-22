@@ -7,9 +7,7 @@
 * Two R scripts were created using only the Cline Center coup dataset to predict the following outcomes:
    * The success or failure of attempted coups
    * The violence or lack thereof of attempted coups
-* One additional R script was created to predict these outcomes:
-   * Coup occurence based on country-by-country economic indicators over time
-   * Violence and success/failure, as in the first two scripts, using both economic data and coup features 
+* Another R script was created to predict coup events based on country-by-country economic indicators over time 
 * Numerous machine learning algorithms were used to model these outcomes
    * Logistic regression
    * Stepwise forward selection of model features for logistic regression
