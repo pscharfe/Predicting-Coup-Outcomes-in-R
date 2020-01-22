@@ -17,5 +17,5 @@
    * Decision trees classification
    * Random Forest ensemble learning
 * Lastly, out-of-sample data on recent coups provides another, mostly successful, test of the models 
-* The correlation matrix for the success of coups is visualized as follows:
+* The correlation matrix for coup success is visualized as follows:
 <img src="Success_Corrs.jpeg" width="500">
